@@ -23,7 +23,7 @@ It is recommended for efficient data management, performance optimization, and a
 **Step 2:** Click on the “vertical ellipsis”, it will open a popup menu for creating a dataset.
 Click on the “Create dataset” to set up a new dataset.
 
-![alt text](image8.png)
+![images](image8.png)
 
 **Step 3:** Fill details for the following fields to create a new dataset.
 
